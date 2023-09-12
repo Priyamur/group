@@ -1,0 +1,15 @@
+D:\subtraction\bin\Debug\net7.0\subtraction.exe
+D:\subtraction\bin\Debug\net7.0\subtraction.deps.json
+D:\subtraction\bin\Debug\net7.0\subtraction.runtimeconfig.json
+D:\subtraction\bin\Debug\net7.0\subtraction.dll
+D:\subtraction\bin\Debug\net7.0\subtraction.pdb
+D:\subtraction\obj\Debug\net7.0\subtraction.csproj.AssemblyReference.cache
+D:\subtraction\obj\Debug\net7.0\subtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\subtraction\obj\Debug\net7.0\subtraction.AssemblyInfoInputs.cache
+D:\subtraction\obj\Debug\net7.0\subtraction.AssemblyInfo.cs
+D:\subtraction\obj\Debug\net7.0\subtraction.csproj.CoreCompileInputs.cache
+D:\subtraction\obj\Debug\net7.0\subtraction.dll
+D:\subtraction\obj\Debug\net7.0\refint\subtraction.dll
+D:\subtraction\obj\Debug\net7.0\subtraction.pdb
+D:\subtraction\obj\Debug\net7.0\subtraction.genruntimeconfig.cache
+D:\subtraction\obj\Debug\net7.0\ref\subtraction.dll
