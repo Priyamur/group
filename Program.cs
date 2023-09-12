@@ -8,3 +8,4 @@ for(int i=0;i<n.Length;i++){
 
 }
 Console.WriteLine(sub);
+Console.WriteLine("hello");
